@@ -1,6 +1,6 @@
 # NumberWordsEn
 
-Provides :en locale for number_words gem
+Provides :en locale for number_words gem. See https://github.com/conanite/number_words
 
 ## Installation
 
@@ -21,7 +21,7 @@ If you don't want to monkey-patch Integer, you can do this instead:
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/number_words_en/fork )
+1. Fork it ( http://github.com/conanite/number_words_en/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
